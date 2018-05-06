@@ -1,0 +1,22 @@
+{
+  "name": "PrivatePodspec",
+  "version": "0.1.0",
+  "summary": "A short description of PrivatePodspec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/夏目大人/PrivatePodspec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "夏目大人": "liululu@souche.com"
+  },
+  "source": {
+    "git": "https://github.com/夏目大人/PrivatePodspec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivatePodspec/Classes/**/*"
+}
